@@ -1,10 +1,8 @@
 # English-French Translator with Attention Mechanism and LSTM
 
-![Model Architecture](attention.jpg)
-
 ## Project Description
 This project implements an English-to-French neural machine translation (NMT) model using Long Short-Term Memory (LSTM) networks and an attention mechanism. The model is trained to translate English sentences into French with improved accuracy by leveraging attention to focus on relevant words during translation.
-
+![EFFECTIVENESS 🔥](attention.jpg)
 ## Features
 - Encoder-Decoder architecture with LSTM networks
 - Attention mechanism to enhance translation quality
